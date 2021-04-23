@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "SSSYPerson"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "Test CocoaPods."
   spec.description  = <<-DESC
   测试使用 CocoaPods 创建公开库
