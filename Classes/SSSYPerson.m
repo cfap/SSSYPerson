@@ -10,7 +10,7 @@
 @implementation SSSYPerson
 
 - (void)say {
-    NSLog(@"Hello World");
+    NSLog(@"Hello World v:0.0.2");
 }
 
 @end
